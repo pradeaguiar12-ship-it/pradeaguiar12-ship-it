@@ -7,8 +7,8 @@ Ex-líder corporativo, hoje fundador construindo produtos em que agentes de IA c
 ## O que estou construindo
 
 - **Ágori Seguros** — corretora digital de seguros com atendimento conduzido por agentes de IA. Python, LangGraph, Supabase/PostgreSQL, React. *(repositório privado)*
-- **Chef Edil Costa AI** — agente de IA que replica a personalidade e o conhecimento do chef Edil Costa ([gastronomiaedilcosta.com.br](https://gastronomiaedilcosta.com.br)). Inclui o app público [Fichas Técnicas e Precificação](https://github.com/pradeaguiar12-ship-it/ficha_tecnica_ajustada).
-- **Qualidade de agentes** — [`agent-quality-lab`](https://github.com/pradeaguiar12-ship-it/agent-quality-lab): harness open-source para testar agentes conversacionais com personas sintéticas declarativas, gates determinísticos com evidência e controles negativos. Python puro, zero dependências — os padrões que uso para levar agentes a produção.
+- **Chef Edil Costa AI** — agente de IA que replica a personalidade e o conhecimento do chef Edil Costa ([gastronomiaedilcosta.com.br](https://gastronomiaedilcosta.com.br)). Inclui o app público [Fichas Técnicas e Precificação](https://github.com/pradeaguiar/ficha_tecnica_ajustada).
+- **Qualidade de agentes** — [`agent-quality-lab`](https://github.com/pradeaguiar/agent-quality-lab): harness open-source para testar agentes conversacionais com personas sintéticas declarativas, gates determinísticos com evidência e controles negativos. Python puro, zero dependências — os padrões que uso para levar agentes a produção.
 - **Orquestração de agentes para desenvolvimento** — workflows multi-agente story-driven, com quality gates automatizados, que sustentam meu fluxo diário de engenharia.
 
 ## Stack
