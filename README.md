@@ -18,4 +18,9 @@ Ex-líder corporativo, hoje fundador construindo produtos em que agentes de IA c
 
 Desenvolvimento orientado a stories, PRs pequenos e quality gate de QA em todo merge. A maior parte do trabalho vive em repositórios privados — o gráfico de contribuições conta essa história.
 
-Fortaleza, CE — Brasil · pradeaguiar12@gmail.com
+## Contato
+
+- LinkedIn: [linkedin.com/in/paulo-r-aguiar](https://www.linkedin.com/in/paulo-r-aguiar)
+- E-mail: pradeaguiar12@gmail.com
+
+Fortaleza - CE, Brasil
